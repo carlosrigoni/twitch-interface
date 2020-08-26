@@ -12,7 +12,7 @@ export default {
  * Auto Theme Challenge:
  *
  * Change App theme based on device theme.
- * 
+ *
  light: {
    primary: '#f7f7f8',
    black: '#000014',
