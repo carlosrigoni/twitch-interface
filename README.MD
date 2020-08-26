@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/interface.png">
+  <img alt="Frontend" src=".github/interface.png" height="100px">
 </p>
 
 ## :rocket: Tecnologias
