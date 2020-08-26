@@ -5,6 +5,7 @@ import Header from '../../components/Header';
 import Heading from '../../components/Heading';
 import Title from '../../components/Title';
 import CategoryList from '../../components/CategoryList';
+import StreamList from '../../components/StreamList';
 
 import { Wrapper, Container, Main } from './styles';
 
@@ -36,7 +37,7 @@ const Following: React.FC = () => {
         isTitle: true,
       },
 
-      { key: 'C2', render: () => <View /> },
+      { key: 'C2', render: () => <StreamList /> },
 
       {
         key: 'CONTINUE_WATCHING',
